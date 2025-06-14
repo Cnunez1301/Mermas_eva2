@@ -1,0 +1,5 @@
+motivo,tipo,subtipo,area_responsable,fuente_deteccion,prevenible
+Interno,Operacional,Manipulacion,Sala de Ventas,Personal,Si
+Vencimiento,Operacional,Caducidad,Bodega,Sistema,Si
+Clientes,Externa,Manipulacion,Sala de Ventas,Personal,No
+Proveedor,Externa,Mal Estado,Bodega,Personal,No

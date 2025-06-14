@@ -1,0 +1,26 @@
+fecha,dia,semana,mes,nombre_mes,semestre,año,dia_semana,tipo_dia
+2016-12-04,4,48,12,Diciembre                                         ,Segundo                       ,2016,Domingo                       ,Fin de semana                 
+2016-12-06,6,49,12,Diciembre                                         ,Segundo                       ,2016,Martes                        ,Hábil                         
+2016-12-08,8,49,12,Diciembre                                         ,Segundo                       ,2016,Jueves                        ,Hábil                         
+2016-12-09,9,49,12,Diciembre                                         ,Segundo                       ,2016,Viernes                       ,Hábil                         
+2016-12-12,12,50,12,Diciembre                                         ,Segundo                       ,2016,Lunes                         ,Hábil                         
+2016-12-13,13,50,12,Diciembre                                         ,Segundo                       ,2016,Martes                        ,Hábil                         
+2016-12-15,15,50,12,Diciembre                                         ,Segundo                       ,2016,Jueves                        ,Hábil                         
+2016-12-18,18,50,12,Diciembre                                         ,Segundo                       ,2016,Domingo                       ,Fin de semana                 
+2016-12-23,23,51,12,Diciembre                                         ,Segundo                       ,2016,Viernes                       ,Hábil                         
+2016-12-26,26,52,12,Diciembre                                         ,Segundo                       ,2016,Lunes                         ,Hábil                         
+2016-12-02,2,48,12,Diciembre                                         ,Segundo                       ,2016,Viernes                       ,Hábil                         
+2016-12-05,5,49,12,Diciembre                                         ,Segundo                       ,2016,Lunes                         ,Hábil                         
+2016-12-16,16,50,12,Diciembre                                         ,Segundo                       ,2016,Viernes                       ,Hábil                         
+2016-12-19,19,51,12,Diciembre                                         ,Segundo                       ,2016,Lunes                         ,Hábil                         
+2016-12-22,22,51,12,Diciembre                                         ,Segundo                       ,2016,Jueves                        ,Hábil                         
+2016-12-25,25,51,12,Diciembre                                         ,Segundo                       ,2016,Domingo                       ,Fin de semana                 
+2016-12-11,11,49,12,Diciembre                                         ,Segundo                       ,2016,Domingo                       ,Fin de semana                 
+2016-12-20,20,51,12,Diciembre                                         ,Segundo                       ,2016,Martes                        ,Hábil                         
+2016-12-07,7,49,12,Diciembre                                         ,Segundo                       ,2016,Miércoles                     ,Hábil                         
+2016-12-14,14,50,12,Diciembre                                         ,Segundo                       ,2016,Miércoles                     ,Hábil                         
+2016-12-21,21,51,12,Diciembre                                         ,Segundo                       ,2016,Miércoles                     ,Hábil                         
+2016-12-03,3,48,12,Diciembre                                         ,Segundo                       ,2016,Sábado                        ,Fin de semana                 
+2016-12-10,10,49,12,Diciembre                                         ,Segundo                       ,2016,Sábado                        ,Fin de semana                 
+2016-12-17,17,50,12,Diciembre                                         ,Segundo                       ,2016,Sábado                        ,Fin de semana                 
+2016-12-24,24,51,12,Diciembre                                         ,Segundo                       ,2016,Sábado                        ,Fin de semana                 
